@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="chicken" size="1.000000 0.330900" />
+    <ImageTarget name="capturadepantalla17" size="1.000000 0.278571" />
+    <ImageTarget name="leonletrajpg" size="1.000000 0.523944" />
+  </Tracking>
+</QCARConfig>
